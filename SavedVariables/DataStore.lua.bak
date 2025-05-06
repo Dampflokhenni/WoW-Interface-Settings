@@ -1,0 +1,34 @@
+
+DataStore_GuildIDs = {
+["Set"] = {
+},
+["Count"] = 0,
+["List"] = {
+},
+}
+DataStore_GuildFactions = {
+}
+DataStore_CharacterIDs = {
+["Set"] = {
+["Default.Moonglade.Knoedel"] = 1,
+["Default.Moonglade.Bhab"] = 2,
+},
+["Count"] = 2,
+["List"] = {
+"Default.Moonglade.Knoedel",
+"Default.Moonglade.Bhab",
+},
+}
+DataStore_CharacterGUIDs = {
+"Player-1085-0B1DF1AA",
+"Player-1085-0B217F99",
+}
+DataStore_CharacterGuilds = {
+}
+DataStore_AltGroups = {
+}
+DataStore_ConnectedRealms = {
+}
+DataStore_RealmNames = {
+["Moonglade"] = "Moonglade",
+}

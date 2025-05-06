@@ -1,0 +1,41 @@
+
+DataStore_Characters_Info = {
+{
+["restXP"] = 477350,
+["playedThisLevel"] = 4655,
+["zone"] = "Insel von Dorn",
+["money"] = 38032194,
+["played"] = 40864,
+["XP"] = 276268,
+["maxXP"] = 366835,
+["bindLocation"] = "Dornogal",
+["lastUpdate"] = 1745399762,
+["CovenantInfo"] = 1,
+["subZone"] = "",
+["name"] = "Knoedel",
+["BaseInfo"] = 848204,
+["lastLogoutTimestamp"] = 1745399762,
+},
+{
+["played"] = 1142,
+["playedThisLevel"] = 1142,
+["zone"] = "Sturmwind",
+["maxXP"] = 8490,
+["restXP"] = 1806,
+["lastLogoutTimestamp"] = 1744803145,
+["bindLocation"] = "Die Schwarzfelstiefen",
+["CovenantInfo"] = 1,
+["subZone"] = "Der Handelsdistrikt",
+["name"] = "Bhab",
+["lastUpdate"] = 1744803145,
+["BaseInfo"] = 2691210,
+["XP"] = 355,
+["money"] = 27464515,
+},
+}
+DataStore_Characters_GuildRanks = {
+}
+DataStore_Characters_Options = {
+["RequestPlayTime"] = true,
+["HideRealPlayTime"] = false,
+}

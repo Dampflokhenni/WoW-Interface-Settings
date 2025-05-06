@@ -1,0 +1,21 @@
+
+DataStore_Auctions_Characters = {
+{
+},
+{
+["lastUpdate"] = 1744683686,
+["lastAuctionsScan"] = 1744683686,
+["lastVisitDate"] = "2025/04/15 04:21",
+},
+}
+DataStore_Auctions_AuctionsList = {
+[2] = {
+},
+}
+DataStore_Auctions_BidsList = {
+}
+DataStore_Auctions_Options = {
+["CheckLastVisitThreshold"] = 15,
+["AutoClearExpiredItems"] = true,
+["CheckLastVisit"] = true,
+}

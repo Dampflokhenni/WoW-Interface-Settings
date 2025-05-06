@@ -1,0 +1,64 @@
+
+DataStore_Mails_Characters = {
+{
+["lastUpdate"] = 1744803233,
+["Mails"] = {
+},
+["lastVisitDate"] = "2025/04/16 13:33",
+["MailCache"] = {
+},
+},
+{
+["lastUpdate"] = 1744803095,
+["Mails"] = {
+{
+["icon"] = 134327,
+["sender"] = "Knoedel",
+["subject"] = "w",
+["returned"] = false,
+["money"] = 0,
+["text"] = "a",
+["lastCheck"] = 1744803095,
+["daysLeft"] = 29.5820484161377,
+},
+{
+["sender"] = "Knoedel",
+["itemID"] = 213501,
+["link"] = "|cff0070dd|Hitem:213501::::::::76:70:::::::::|h[Tödlicher Bern |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r",
+["count"] = 1,
+["lastCheck"] = 1744803231,
+["icon"] = 5931396,
+["daysLeft"] = 30,
+},
+{
+["sender"] = "Knoedel",
+["itemID"] = 213510,
+["link"] = "|cff0070dd|Hitem:213510::::::::76:70:::::::::|h[Vielseitiger Bern |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r",
+["count"] = 1,
+["lastCheck"] = 1744803231,
+["icon"] = 5931395,
+["daysLeft"] = 30,
+},
+{
+["sender"] = "Knoedel",
+["itemID"] = 213507,
+["link"] = "|cff0070dd|Hitem:213507::::::::76:70:::::::::|h[Meisterhafter Bern |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a]|h|r",
+["count"] = 1,
+["lastCheck"] = 1744803231,
+["icon"] = 5931397,
+["daysLeft"] = 30,
+},
+},
+["lastVisitDate"] = "2025/04/16 13:31",
+["MailCache"] = {
+},
+},
+}
+DataStore_Mails_Options = {
+["ReportExpiredMailsToChat"] = true,
+["ScanMailBody"] = true,
+["CheckMailExpiry"] = true,
+["CheckMailExpiryAllRealms"] = true,
+["MailWarningThreshold"] = 5,
+["CheckMailExpiryAllAccounts"] = true,
+}

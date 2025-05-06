@@ -1,0 +1,49 @@
+
+PawnOptions = {
+["LastVersion"] = 2.1013,
+["LastPlayerFullName"] = "Bhab-Moonglade",
+["AutoSelectScales"] = true,
+["ItemLevels"] = {
+[6] = {
+["ID"] = 157744,
+["Level"] = 16,
+["Link"] = "|cff1eff00|Hitem:157744::::::::10:1446::75:::::::|h[Gürtung des Kriegssängers]|h|r",
+},
+[7] = {
+["ID"] = 157742,
+["Level"] = 16,
+["Link"] = "|cff1eff00|Hitem:157742::::::::10:1446::75:::::::|h[Beinplatten des Kriegssängers]|h|r",
+},
+[8] = {
+["ID"] = 157739,
+["Level"] = 16,
+["Link"] = "|cff1eff00|Hitem:157739::::::::10:1446::75:::::::|h[Sabatons des Kriegssängers]|h|r",
+},
+[10] = {
+["ID"] = 157740,
+["Level"] = 16,
+["Link"] = "|cff1eff00|Hitem:157740::::::::10:1446::75:::::::|h[Stulpen des Kriegssängers]|h|r",
+},
+[9] = {
+["ID"] = 157745,
+["Level"] = 16,
+["Link"] = "|cff1eff00|Hitem:157745::::::::10:1446::75:::::::|h[Unterarmschienen des Kriegssängers]|h|r",
+},
+[16] = {
+["ID"] = 157643,
+["Level"] = 16,
+["Link"] = "|cff1eff00|Hitem:157643::::::::10:1446::75:::::::|h[Helmhackergroßaxt]|h|r",
+},
+[5] = {
+["ID"] = 157738,
+["Level"] = 16,
+["Link"] = "|cff1eff00|Hitem:157738::::::::10:1446::75:::::::|h[Brustplatte des Kriegssängers]|h|r",
+},
+},
+["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+["LastClass"] = "WARRIOR",
+["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

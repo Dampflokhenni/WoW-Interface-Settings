@@ -1,0 +1,16 @@
+
+AdvancedXPBarDB = {
+["texture"] = "Interface\\TargetingFrame\\UI-StatusBar",
+["watched"] = true,
+["sound"] = true,
+["popup"] = true,
+["color"] = {
+0,
+1,
+0,
+1,
+},
+["bonus"] = true,
+["remote"] = true,
+["incomplete"] = false,
+}

@@ -1,0 +1,45 @@
+
+DataStore_Talents_Characters = {
+}
+DataStore_Talents_Specializations = {
+43,
+105,
+}
+DataStore_Talents_SpecializationInfos = {
+["Roles"] = {
+["Set"] = {
+["DAMAGER"] = 1,
+},
+["Count"] = 1,
+["List"] = {
+"DAMAGER",
+},
+},
+["Names"] = {
+["Set"] = {
+[""] = 2,
+["Vergeltung"] = 1,
+["Waffen"] = 3,
+},
+["Count"] = 3,
+["List"] = {
+"Vergeltung",
+"",
+"Waffen",
+},
+},
+}
+DataStore_Talents_Covenant = {
+{
+},
+{
+},
+}
+DataStore_Talents_Conduits = {
+}
+DataStore_Talents_ConduitSpecs = {
+}
+DataStore_Talents_Soulbinds = {
+}
+DataStore_Talents_Reasons = {
+}

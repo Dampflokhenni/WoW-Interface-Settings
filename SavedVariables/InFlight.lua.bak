@@ -1,0 +1,13 @@
+
+InFlightDB = {
+["profileKeys"] = {
+["Bhab - Moonglade"] = "Default",
+["Knoedel - Moonglade"] = "Default",
+},
+["version"] = "post-cata",
+["dbinit"] = 1101005,
+["profiles"] = {
+["Default"] = {
+},
+},
+}

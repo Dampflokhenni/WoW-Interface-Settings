@@ -1,0 +1,12 @@
+
+HandyNotes_TheWarWithinDB = {
+["profileKeys"] = {
+["Bhab - Moonglade"] = "Default",
+["Yarakka - Moonglade"] = "Default",
+["Knoedel - Moonglade"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+},
+},
+}
