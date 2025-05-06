@@ -5,7 +5,7 @@ source folder tree starting from folder containing the WoW executable is
 
       ./WTF/Account/ACCOUNTNAME/
 
-## NB: Thats one below the WoW launcher.app/.exe
+#### NB: That is one below the WoW launcher.app/.exe
 
 As of today, May 6th 2025, current list of addons installed and whether their enabled resides with 
 
